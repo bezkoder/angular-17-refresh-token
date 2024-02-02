@@ -12,9 +12,9 @@ For more detail, please visit:
 > [Angular 17 JWT Authentication & Authorization with Web API example](https://www.bezkoder.com/angular-17-jwt-auth/)
 
 ## Fullstack
-> [Angular 16 + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-16-spring-boot-jwt-auth/)
+> [Angular 17 + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-17-spring-boot-jwt-auth/)
 
-> [Angular 16 + Node.js Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-16-jwt-auth/)
+> [Angular 17 + Node.js Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-17-jwt-auth/)
 
 Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`.
 
